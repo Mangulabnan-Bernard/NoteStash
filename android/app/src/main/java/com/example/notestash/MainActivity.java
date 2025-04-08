@@ -1,4 +1,4 @@
-package com.example.notestash;
+package com.developer.notestash;
 
 import io.flutter.embedding.android.FlutterActivity;
 
