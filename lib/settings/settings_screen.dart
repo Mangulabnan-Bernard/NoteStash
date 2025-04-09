@@ -72,7 +72,7 @@ class SettingsScreen extends StatelessWidget {
                   title: Text('Version', style: TextStyle(color: getTextColor())),
                   leading: Icon(CupertinoIcons.number),
                   trailing: Text(
-                    '1.0.0+4',
+                    '1.0.0+5',
                     style: TextStyle(
                       color: CupertinoColors.inactiveGray,
                       fontSize: 16,
